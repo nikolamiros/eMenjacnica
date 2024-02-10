@@ -1,0 +1,190 @@
+[
+  {
+    "exchangeOfficeName": "Menjačnica Vip",
+    "exchangeOfficeCity": "Beograd",
+    "exchangeOfficeAddress": "Požeška 7",
+    "location": {
+      "latitude": 44.815543,
+      "longitude": 20.435634
+    },
+    "currencies": [
+      {
+        "currencyName": "eur",
+        "buyRateAbove": 118.0,
+        "buyRateUnder": 118.3,
+        "sellRateAbove": 117.3,
+        "sellRateUnder": 116.5
+      },
+      {
+        "currencyName": "usd",
+        "buyRateAbove": 102.0,
+        "buyRateUnder": 102.5,
+        "sellRateAbove": 101.0,
+        "sellRateUnder": 100.5
+      },
+      {
+        "currencyName": "chf",
+        "buyRateAbove": 120.7,
+        "buyRateUnder": 122.0,
+        "sellRateAbove": 120.0,
+        "sellRateUnder": 119.5
+      },
+      {
+        "currencyName": "gbp",
+        "buyRateAbove": 134.0,
+        "buyRateUnder": 134.8,
+        "sellRateAbove": 132.8,
+        "sellRateUnder": 132.0
+      },
+      {
+        "currencyName": "aud",
+        "buyRateAbove": 77.3,
+        "buyRateUnder": 79.0,
+        "sellRateAbove": 76.3,
+        "sellRateUnder": 75.0
+      }
+    ],
+    "package": "basic"
+  },
+  {
+    "exchangeOfficeName": "Menjačnica Trange Frange",
+    "exchangeOfficeCity": "Beograd",
+    "exchangeOfficeAddress": "Goce Delčeva 15",
+    "location": {
+      "latitude": 44.830994,
+      "longitude": 20.415169
+    },
+    "currencies": [
+      {
+        "currencyName": "eur",
+        "buyRateAbove": 117.7,
+        "buyRateUnder": 118.7,
+        "sellRateAbove": 117.4,
+        "sellRateUnder": 116.4
+      },
+      {
+        "currencyName": "usd",
+        "buyRateAbove": 102.2,
+        "buyRateUnder": 103.0,
+        "sellRateAbove": 101.5,
+        "sellRateUnder": 101.0
+      },
+      {
+        "currencyName": "chf",
+        "buyRateAbove": 120.5,
+        "buyRateUnder": 122.3,
+        "sellRateAbove": 119.5,
+        "sellRateUnder": 119.0
+      },
+      {
+        "currencyName": "gbp",
+        "buyRateAbove": 134.3,
+        "buyRateUnder": 135.3,
+        "sellRateAbove": 132.9,
+        "sellRateUnder": 131.9
+      },
+      {
+        "currencyName": "aud",
+        "buyRateAbove": 78.0,
+        "buyRateUnder": 79.5,
+        "sellRateAbove": 77.0,
+        "sellRateUnder": 76.0
+      }
+    ],
+    "package": "premium"
+  },
+  {
+    "exchangeOfficeName": "Menjačnica Dok",
+    "exchangeOfficeCity": "Beograd",
+    "exchangeOfficeAddress": "Kralja Petra 3",
+    "location": {
+      "latitude": 44.822369,
+      "longitude": 20.408487
+    },
+    "currencies": [
+      {
+        "currencyName": "eur",
+        "buyRateAbove": 117.5,
+        "buyRateUnder": 118.3,
+        "sellRateAbove": 117.2,
+        "sellRateUnder": 116.9
+      },
+      {
+        "currencyName": "usd",
+        "buyRateAbove": 102.7,
+        "buyRateUnder": 103.5,
+        "sellRateAbove": 102.0,
+        "sellRateUnder": 101.5
+      },
+      {
+        "currencyName": "chf",
+        "buyRateAbove": 120.8,
+        "buyRateUnder": 122.0,
+        "sellRateAbove": 119.3,
+        "sellRateUnder": 118.9
+      },
+      {
+        "currencyName": "gbp",
+        "buyRateAbove": 133.3,
+        "buyRateUnder": 134.3,
+        "sellRateAbove": 132.3,
+        "sellRateUnder": 131.3
+      },
+      {
+        "currencyName": "aud",
+        "buyRateAbove": 78.2,
+        "buyRateUnder": 78.7,
+        "sellRateAbove": 77.2,
+        "sellRateUnder": 76.8
+      }
+    ],
+    "package": "vip"
+  },
+  {
+    "exchangeOfficeName": "Menjačnica Coin",
+    "exchangeOfficeCity": "Beograd",
+    "exchangeOfficeAddress": "Studentska 25",
+    "location": {
+      "latitude": 44.826055,
+      "longitude": 20.403022
+    },
+    "currencies": [
+      {
+        "currencyName": "eur",
+        "buyRateAbove": 117.4,
+        "buyRateUnder": 118.0,
+        "sellRateAbove": 117.3,
+        "sellRateUnder": 117.0
+      },
+      {
+        "currencyName": "usd",
+        "buyRateAbove": 101.8,
+        "buyRateUnder": 102.8,
+        "sellRateAbove": 101.2,
+        "sellRateUnder": 100.2
+      },
+      {
+        "currencyName": "chf",
+        "buyRateAbove": 120.0,
+        "buyRateUnder": 122.0,
+        "sellRateAbove": 119.0,
+        "sellRateUnder": 118.5
+      },
+      {
+        "currencyName": "gbp",
+        "buyRateAbove": 134.0,
+        "buyRateUnder": 135.0,
+        "sellRateAbove": 132.0,
+        "sellRateUnder": 131.0
+      },
+      {
+        "currencyName": "aud",
+        "buyRateAbove": 78.1,
+        "buyRateUnder": 79.1,
+        "sellRateAbove": 77.1,
+        "sellRateUnder": 76.1
+      }
+    ],
+    "package": "premium"
+  }
+]

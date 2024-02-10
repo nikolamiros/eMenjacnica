@@ -1,0 +1,71 @@
+{
+  "__collections__": {
+    "exchangeOffices": {
+      "XybCZdvfWxLQOU6UfyPB": {
+        "exchangeOfficeName": "Menjačnica Atelje",
+        "exchangeOfficeAddress": "Svetogorska 20",
+        "location": {
+          "__datatype__": "geopoint",
+          "value": {
+            "_latitude": 44.830259,
+            "_longitude": 20.410791
+          }
+        },
+        "exchangeOfficeCity": "Beograd",
+        "currencies": [
+          {
+            "sellRateUnder": 117,
+            "currencyName": "eur",
+            "buyRateUnder": 118.5,
+            "buyRateAbove": 117.9,
+            "sellRateAbove": 117.5
+          },
+          {
+            "sellRateUnder": 100.2,
+            "currencyName": "usd",
+            "buyRateUnder": 102.5,
+            "buyRateAbove": 101.8,
+            "sellRateAbove": 100.8
+          },
+          {
+            "sellRateUnder": 118.2,
+            "currencyName": "chf",
+            "buyRateUnder": 121.2,
+            "buyRateAbove": 120,
+            "sellRateAbove": 118.9
+          }
+        ],
+        "package": "premium",
+        "__collections__": {}
+      }
+    },
+    "users": {
+      "8pbC7ZkwHBuGKqHZKH89": {
+        "role": "exchangeCustomer",
+        "email": "miros@gmail.com",
+        "__collections__": {}
+      },
+      "XQtw5Y1qhRqFNTQJwcdF": {
+        "role": "exchangeCustomer",
+        "email": "test@gmail.com",
+        "__collections__": {}
+      },
+      "cmbXLjDt8Z6F6bJ4FBsk": {
+        "role": "exchangeCustomer",
+        "email": "marija@gmail.com",
+        "__collections__": {}
+      },
+      "dSDhwzXbEsEKWC9eDkQH": {
+        "role": "exchangeOfficer",
+        "email": "menjacnica.atelje@gmail.com",
+        "exchangeOfficeRef": "XybCZdvfWxLQOU6UfyPB",
+        "__collections__": {}
+      },
+      "yWFc5QxZvgMCb6kxLfVf": {
+        "role": "exchangeCustomer",
+        "email": "miros85@gmail.com",
+        "__collections__": {}
+      }
+    }
+  }
+}
